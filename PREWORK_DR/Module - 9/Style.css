@@ -1,0 +1,58 @@
+<style>
+    
+    h1 {
+        text-align: center;
+    }
+
+    .red {
+        color: red;
+    }
+
+    .blue {
+        color: blue;
+    }
+
+    .green {
+        color: green;
+    }
+
+    .big {
+        font-size: 24px;
+    }
+
+    .tiny {
+        font-size: 10px;
+    }
+
+    .centered {
+        text-align: center;
+    }
+    
+    .bold {
+        font-weight: bold;
+    }
+
+    .changefont {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .multiple {
+        font-size: 24px;
+        font-weight: bold;
+        color: orange;
+    }
+
+    .styledFont {
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        color: purple;
+    }
+
+    #styledImage {
+        border-style: solid;
+        border-width: 5px;
+        border-color: green;
+    }
+
+</style> 
